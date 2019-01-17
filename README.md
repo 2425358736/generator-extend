@@ -34,3 +34,5 @@ PluginAdapter  提供的接口
     client*****MethodGenerated 对应mapper接口内的各个方法
 
 ```
+### 详细说明 请前往 https://github.com/2425358736/mybatis-generator-demo
+
